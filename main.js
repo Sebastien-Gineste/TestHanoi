@@ -1,2 +1,2 @@
-move 1 2
-move 2 3
+console.log("move 0 1")
+console.log("move 0 2")
